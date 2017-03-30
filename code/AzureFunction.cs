@@ -23,7 +23,7 @@ public static  bool SendMail(string to, string subject, string body)
         mailMsg.Subject = subject;
         mailMsg.Body = body;
         SmtpClient smtpClient = new SmtpClient("smtp.sendgrid.net", 587);
-        System.Net.NetworkCredential credentials = new System.Net.NetworkCredential("azure_753dbaa66fc5b9c8fe56e32b428229a4@azure.com", "@xamarinfest1");
+        System.Net.NetworkCredential credentials = new System.Net.NetworkCredential("Security_Account", "Security_KEY");
         smtpClient.Credentials = credentials;
         smtpClient.Send(mailMsg);
         return true;
