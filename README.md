@@ -3,12 +3,12 @@
 
 # Tabla de contenido
 
-- [Objetivo del Laboratorio](#Objetivo-del-Laboratorio)
-- [Indicaciones antes de comenzar](#Indicaciones-antes-de-comenzar)
-- [Introducción](#Introducción)
-- [Pasos](#Pasos)
-- [Vinculos recomendados](#Vinculos-recomendados)
-- [Patrocinadores](#Patrocinadores)
+- [Objetivo del Laboratorio](https://github.com/XamarinMedellin/XamarinFest-TdeA#objetivo-del-laboratorio)
+- [Indicaciones antes de comenzar](https://github.com/XamarinMedellin/XamarinFest-TdeA#indicaciones-antes-de-comenzar)
+- [Introducción](https://github.com/XamarinMedellin/XamarinFest-TdeA#introducción)
+- [Pasos](https://github.com/XamarinMedellin/XamarinFest-TdeA#pasos)
+- [Vinculos recomendados](https://github.com/XamarinMedellin/XamarinFest-TdeA#vinculos-recomendados)
+- [Patrocinadores](https://github.com/XamarinMedellin/XamarinFest-TdeA#patrocinadores)
 
 
 
@@ -286,6 +286,9 @@ Verificamos la cuenta de correo y visualizaremos los mensajes enviados desde las
 
 
 - <img src="images/microsoft-logo.jpg" style="height:80px;text-align:center;margin:0 auto;width:350px" />
+
+
+- <img src="images/tdea.png" style="height:80px;text-align:center;margin:0 auto;width:350px" />
 
 
 - <img src="images/avanet.png" style="height:120px;text-align:center;margin:0 auto;width:auto" />
